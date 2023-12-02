@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fson-react-redux/static/css/main.c3d5249d.css",
+    "main.js": "/fson-react-redux/static/js/main.8e30f95c.js",
+    "index.html": "/fson-react-redux/index.html",
+    "main.c3d5249d.css.map": "/fson-react-redux/static/css/main.c3d5249d.css.map",
+    "main.8e30f95c.js.map": "/fson-react-redux/static/js/main.8e30f95c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.8e30f95c.js"
+  ]
+}
